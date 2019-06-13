@@ -1,0 +1,16 @@
+.demo {
+  position: relative;
+  max-width: 608px;
+  margin: auto auto;
+  padding: 14px 31px;
+  .demo__header {
+    font-weight: 600;
+    h3 {
+      font-size: 24px;
+    }
+  }
+}
+
+.pointer {
+  cursor: pointer;
+}
