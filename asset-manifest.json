@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fiverr/static/css/main.69d6d191.chunk.css",
+    "main.js": "/fiverr/static/js/main.bc430a3c.chunk.js",
+    "main.js.map": "/fiverr/static/js/main.bc430a3c.chunk.js.map",
+    "runtime~main.js": "/fiverr/static/js/runtime~main.9dcab42f.js",
+    "runtime~main.js.map": "/fiverr/static/js/runtime~main.9dcab42f.js.map",
+    "static/js/2.785940c3.chunk.js": "/fiverr/static/js/2.785940c3.chunk.js",
+    "static/js/2.785940c3.chunk.js.map": "/fiverr/static/js/2.785940c3.chunk.js.map",
+    "index.html": "/fiverr/index.html",
+    "precache-manifest.71484469bb662a492d660c768d2e4a7f.js": "/fiverr/precache-manifest.71484469bb662a492d660c768d2e4a7f.js",
+    "service-worker.js": "/fiverr/service-worker.js",
+    "static/css/main.69d6d191.chunk.css.map": "/fiverr/static/css/main.69d6d191.chunk.css.map"
+  }
+}
